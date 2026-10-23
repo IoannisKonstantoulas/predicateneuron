@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper."
+title: "Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning"
+authors:
+  - family-names: "Konstantoulas"
+    given-names: "Ioannis"
+  - family-names: "Loi"
+    given-names: "Iliana"
+  - family-names: "Sgarbas"
+    given-names: "Kyriakos"
+repository-code: "https://github.com/IoannisKonstantoulas/predicateneuron"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning"
+  authors:
+    - family-names: "Konstantoulas"
+      given-names: "Ioannis"
+    - family-names: "Loi"
+      given-names: "Iliana"
+    - family-names: "Sgarbas"
+      given-names: "Kyriakos"
+  year: 2026
+  url: "https://TODO"
