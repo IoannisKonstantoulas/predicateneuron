@@ -5,4 +5,4 @@ from predicateneuron.keras import PredicateLayer, MinimalPredicateLayer, Minimal
 from predicateneuron.tf    import PredicateLayer, MinimalPredicateLayer, MinimalJointPredicateLayer   # tf.keras users
 from predicateneuron.torch import PredicateLayer, MinimalPredicateLayer, MinimalJointPredicateLayer   # PyTorch
 """
-__version__ = "0.1.2"
+__version__ = "0.1.3"

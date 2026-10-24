@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "predicateneuron"
-version = "0.1.2"
+version = "0.1.3"
 description = "Differentiable predicate neuron (intersection / union / symmetric difference) and predicate layers for Keras, TensorFlow and PyTorch"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -20,7 +20,7 @@ dev        = ["pytest"]
 
 [project.urls]
 Homepage = "https://github.com/IoannisKonstantoulas/predicateneuron"
-Paper = "https://TODO"
+Paper = "https://doi.org/10.5281/zenodo.23618218"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/predicateneuron"]
