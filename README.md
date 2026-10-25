@@ -6,7 +6,7 @@ The neuron combines two inputs in [0, 1] with a fuzzy-logic operation (intersect
 single learnable parameter, `theta`, decides which operation is used, so the network learns which logical relation to
 apply to each pair of features.
 
-> Code accompanying the paper:  Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning  ([link](https://doi.org/10.5281/zenodo.23618218)).
+> Code accompanying the paper:  Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning  ([link](https://doi.org/10.5281/zenodo.23652619)).
 
 ## Installation
 
